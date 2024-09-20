@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://pixels.crd.co/assets/images/gallery50/a22d90f1.gif?v=99d3974e" alt="GIF">
+  <p>Drying up in conversation<br>You will be the one who cannot talk</p>
+</div>
+```
 
-<!--
-**SkeletalScarf/SkeletalScarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://i.postimg.cc/YSCZJbVk/Untitled770-20240919225559.png" alt="Image">
+  <br>
+  <p>Kiara ೃ⁀➷ she/any ˗ˏˋ ´ˎ˗ ASPD</p>
+  <p>Oh, it's the best thing that you've ever had</p>
+  <img src="https://i.postimg.cc/5tvP1JzK/IMG-7721.png" alt="Image">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
