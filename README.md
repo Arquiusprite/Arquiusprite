@@ -11,6 +11,7 @@
   <p>Kiara ೃ⁀➷ she/any ˗ˏˋ ´ˎ˗ ASPD</p>
   <p>Usually around spawn, Brawl Stars area, Regretevator area or near docks, usually as edgar.</p>
   <p>"Oh, it's the best thing that you've ever had"</p>
+  <a href="https://pfq.link/?KbJxl"><img src="https://pfq.link/?KbJxl=party.png" /></a>
   <img src="https://i.postimg.cc/5tvP1JzK/IMG-7721.png" alt="Image">
 </div>
 
