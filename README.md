@@ -8,7 +8,8 @@
   <p align=center>
    <a href="https://smiledk.straw.page">STRAWPAGE</a>
 
-                                                                         
+            Find me around Spawn ,Regretevator, Brawl stars areas
+            Im usually Edgar, Wallace Wells, Infected or Nepeta
 </p>
 </body>
 </html>
